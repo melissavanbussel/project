@@ -8,5 +8,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
-URL: https://github.com/melissavanbussel/project
+URL: https://github.com/melissavanbussel/project, https://melissavanbussel.github.io/project/
 BugReports: https://github.com/melissavanbussel/project/issues
